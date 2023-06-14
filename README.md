@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **J2SE , Spring Boot , HTML , CSS , J2EE , JavaScript, ReactJs**
 
-- 📫 How to reach me **khedkarmahesh14@gmail.com**
+- 📫 How to reach me **sabaleshubham1805@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
